@@ -6,9 +6,9 @@
 
 **Содержание:**
 
-1. AB_TEST_PROJECT
-2. banking_customer_segmentation
-3. customer churn forecasting
+1. [AB_TEST_PROJECT](https://github.com/VLazukina/projects_2022/tree/main/AB_TEST_PROJECT)
+2. [banking_customer_segmentation](https://github.com/VLazukina/projects_2022/tree/main/banking_customer_segmentation)
+3. [customer churn forecasting](https://github.com/VLazukina/projects_2022/tree/main/customer%20churn%20forecasting)
 
 **1. AB_TEST_PROJECT**
 
